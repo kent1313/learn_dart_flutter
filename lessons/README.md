@@ -6,14 +6,15 @@
 - 1.2 Programing and PseudoCode intro
 - 1.3 Understanding Dart and Flutter
 - 1.4 Installing Dart and Flutter
+- 1.5 IDE: Visual Studio and Android Studio
 
 ## Chapter 2: Basics
 
-- [2.1 (Lesson 1) Hello, World](Chapter%202/Lesson%201-Hello%20World)
-- 2.2 (Lesson 2) Add two numbers together
-- 2.3 (Lesson 3) Logic, addition program asking for the operation
-- 2.4 (Lesson "??") Rock, paper, scissors
-- 2.5 (Lesson 4) Exercise 2 from the list (even or odd)
+- [2.1 (Lesson 1) Hello, World: Input and Output](Chapter%202/Lesson%201-Hello%20World)
+- 2.2 (Lesson 2) Variables: Strings, Integers, and More
+- 2.3 (Lesson 3) Adding, Subracting, Multiplying, Dividing Numbers
+- 2.4 (Lesson 4) Operations with Other Variable Types
+- 2.5 (Exercise 1) Overall Excercise
 
 ## Chapter 3: Loops
 
